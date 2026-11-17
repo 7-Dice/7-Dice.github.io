@@ -6,6 +6,15 @@
 
 ## [unreleased]
 
+##[0.3.0] - 2026-11-17
+
+### Added
+- About Meページを追加
+- 趣味・ストレス解消法などの自己紹介情報を追加
+
+### Changed
+- index.htmlにAboutMeページへのリンクを追加
+
 ## Changed  
 - UI表示内容を変更
 

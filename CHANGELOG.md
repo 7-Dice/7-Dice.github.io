@@ -6,6 +6,9 @@
 
 ## [unreleased]
 
+## Changed  
+- UI表示内容を変更
+
 ## [0.2.0] - 2026-11-17
 
 ## Changed
